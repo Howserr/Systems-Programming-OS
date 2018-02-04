@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Step9"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/d/Users/Oliver/OneDrive/University/Year 3/Systems Programming/Assessment2 - new/Step9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/d/Users/Oliver/OneDrive/University/Year 3/Systems Programming/Assessment2 - new/Step9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/d/Users/Oliver/OneDrive/University/Year 3/Systems Programming/Assessment2 - new/Step9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Step9">
+				<Option output="/cygdrive/d/Users/Oliver/OneDrive/University/Year 3/Systems Programming/Assessment2 - new/Step9/cmake-build-debug/Step9.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/Users/Oliver/OneDrive/University/Year 3/Systems Programming/Assessment2 - new/Step9/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 Step9"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Step9/fast">
+				<Option output="/cygdrive/d/Users/Oliver/OneDrive/University/Year 3/Systems Programming/Assessment2 - new/Step9/cmake-build-debug/Step9.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/Users/Oliver/OneDrive/University/Year 3/Systems Programming/Assessment2 - new/Step9/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 Step9/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Users/Oliver/OneDrive/University/Year\ 3/Systems\ Programming/Assessment2\ -\ new/Step9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/d/Users/Oliver/OneDrive/University/Year 3/Systems Programming/Assessment2 - new/Step9/console.c">
+			<Option target="Step9"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Users/Oliver/OneDrive/University/Year 3/Systems Programming/Assessment2 - new/Step9/include/_null.h">
+			<Option target="Step9"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Users/Oliver/OneDrive/University/Year 3/Systems Programming/Assessment2 - new/Step9/include/size_t.h">
+			<Option target="Step9"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Users/Oliver/OneDrive/University/Year 3/Systems Programming/Assessment2 - new/Step9/include/stdint.h">
+			<Option target="Step9"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Users/Oliver/OneDrive/University/Year 3/Systems Programming/Assessment2 - new/Step9/include/string.h">
+			<Option target="Step9"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Users/Oliver/OneDrive/University/Year 3/Systems Programming/Assessment2 - new/Step9/include/vga.h">
+			<Option target="Step9"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Users/Oliver/OneDrive/University/Year 3/Systems Programming/Assessment2 - new/Step9/string.c">
+			<Option target="Step9"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Users/Oliver/OneDrive/University/Year 3/Systems Programming/Assessment2 - new/Step9/vga.c">
+			<Option target="Step9"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Users/Oliver/OneDrive/University/Year 3/Systems Programming/Assessment2 - new/Step9/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

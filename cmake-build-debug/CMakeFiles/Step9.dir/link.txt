@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Step9.dir/console.c.o CMakeFiles/Step9.dir/string.c.o CMakeFiles/Step9.dir/vga.c.o  -o Step9.exe -Wl,--out-implib,libStep9.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
